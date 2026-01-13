@@ -8,5 +8,7 @@ calcBtn.addEventListener('click', function () {
 // lettura valori degli input
 const km = Number(kmInput.value);
   const age = Number(ageInput.value);
+  // calcolo del prezzo base
+  let price = km * 0.21;
 
 });
