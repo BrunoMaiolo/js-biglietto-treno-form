@@ -52,6 +52,16 @@ h2 {
   background: red;
 }
 
+/*Biglietto*/
+.ticket {
+  background: green;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 30px;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
 
 
 
