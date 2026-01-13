@@ -8,6 +8,17 @@ body {
 /*Titolo*/
 h1 { color: black; }
 
+/*Sottotitolo*/
+h2 {
+  color: black;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 100px;
+}
+
+
 
 
 
