@@ -2,6 +2,7 @@
 const kmImput = document.getElementById('kmImput');
 const ageInput = document.getElementById('ageInput');
 const calcBtn = document.getElementById('calcBtn');
+const result = document.getElementById('result');
 
 //Click bottone
 calcBtn.addEventListener('click', function () {
