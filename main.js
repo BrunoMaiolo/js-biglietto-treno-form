@@ -17,7 +17,7 @@ const km = Number(kmInput.value);
   } else if (age >= 65) {
     price = price * 0.6; 
   }
-  //Stampa in console
-  console.log('Prezzo finale del biglietto:', price);
+  // stampa prezzo del biglietto in pagina
+  result.innerText = `Il prezzo del biglietto è € ${price.toFixed(2)}`;
 
 });
