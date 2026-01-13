@@ -17,6 +17,6 @@ const km = Number(kmInput.value);
     price = price * 0.6; 
   }
   //Stampa in console
-  
+  console.log('Prezzo finale del biglietto:', price);
 
 });
